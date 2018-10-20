@@ -25,6 +25,7 @@ https://youtu.be/OVLTHGaTi7k
 * ["Choosing properties for property-based testing"](https://fsharpforfunandprofit.com/posts/property-based-testing-2/) by Scott Wlaschin
 * ["Property-based Testing is a Mindset"](https://www.youtube.com/watch?v=p84DMv8TQuo) by Andrea Leopardi (ElixirConf EU 2018)
 * [SteamData documentation](https://hexdocs.pm/stream_data/StreamData.html)
+* Some information for the "eight queens puzzle" came from [this Wikipedia page](https://en.wikipedia.org/wiki/Eight_queens_puzzle).
 
 ### Image attributions
 * https://upload.wikimedia.org/wikipedia/commons/0/03/USA-satellite.jpg - By original image by NASA; crop by Ryan Kaldari [Public domain], via Wikimedia Commons
